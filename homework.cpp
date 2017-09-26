@@ -1,9 +1,7 @@
 #include<math.h>
 #include<iostream>
 
-int main() {
-	// variant 7(task 10,15)
-	// task 10
+int main() {  // variant 7(task 10,15)
 	std::cout << "print 4 signed number a1a2a3a4" << std::endl;
 	int o = 0;
 	std::cin >> o;
@@ -13,9 +11,7 @@ int main() {
 	a3 = (o / 100) - (o / 1000) * 10;
 	a4 = o / 1000;
 	std::cout << "summ=a1+a2+a3+a4=" << a1 + a2 + a3 + a4 << std::endl;
-	std::cout << "a1*a2*a3*a4=" << a1*a2*a3*a4 << std::endl;
-	// //////////////////////
-	// task 15
+	std::cout << "a1*a2*a3*a4=" << a1*a2*a3*a4 << std::endl;  // task 15
 	int z = 237;
 	int x3 = z / 100;
 	int x12 = z - z / 100 * 100;
