@@ -10,7 +10,7 @@ ADD_DEFINITIONS(
 
 # enum your files
 add_executable(executable
-	homework.cpp
+    homework.cpp
 )
 
 target_link_libraries(executable)
