@@ -20,5 +20,5 @@ int main() {
     int x3 = z / 100;
     int x12 = z - z / 100 * 100;
     std::cout << "x=" << x12 * 10 + x3 << std::endl;
-return 0;
+    return 0;
 }
