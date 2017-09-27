@@ -1,5 +1,5 @@
-#include<iostream>
-#include<math.h>
+#include <iostream>
+#include <math.h>
 
 int main() {
     // variant 7(task 10,15)
